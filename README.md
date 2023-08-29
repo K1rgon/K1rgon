@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kirill Gonin</h1>
 <h3 align="center">A Full Stack developer from Moscow</h3>
 
-- 🌱 I’m currently learning **React,Redux,JavaScript,Node.js**
+- 🌱 I’m currently work **React,Redux,JavaScript,Node.js**
 
 - 📫 How to reach me **t.me/K1RGoN**
 
